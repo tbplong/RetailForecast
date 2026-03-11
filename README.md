@@ -133,16 +133,6 @@ Open the URL shown in the terminal (usually `http://localhost:8501`). From the d
 
 ---
 
-## Hardware Recommendations
-
-| Component | Minimum | Recommended |
-|---|---|---|
-| GPU | — | NVIDIA GPU with 8 GB+ VRAM |
-| RAM | 16 GB | 32 GB+ |
-| Storage | 5 GB free | 10 GB+ free |
-
----
-
 ## License
 
 This project is provided as-is for educational and research purposes.
