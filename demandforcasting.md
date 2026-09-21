@@ -1,4 +1,4 @@
-# Demand forecasting Project for Internships at kSynerX
+# Demand forecasting Project
 
 The goal of this work is to test models for demand forecasting, including:
 
